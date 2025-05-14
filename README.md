@@ -1,3 +1,5 @@
+# Name : Anjali K
+# Register Number : 212224040024
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -30,8 +32,6 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```
-Developed by: Anjali K
-Register number: 212224040024
 import numpy as np 
 import math 
 import scipy.stats 
